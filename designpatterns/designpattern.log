@@ -1,0 +1,55 @@
+2020-03-10 19:44:26 INFO  bridgepattern.OopsQuestions :41 - What is abstraction? 
+2020-03-10 19:44:26 INFO  bridgepattern.QuestionFormat :10 - ---------------------------------------------------------
+2020-03-10 19:44:26 INFO  bridgepattern.QuestionManager :28 - Question Paper:OOPS
+2020-03-10 19:44:26 INFO  bridgepattern.OopsQuestions :45 - What is abstraction? 
+2020-03-10 19:44:26 INFO  bridgepattern.OopsQuestions :45 - How multiple polymorphism is achieved in java? 
+2020-03-10 19:44:26 INFO  bridgepattern.OopsQuestions :45 - What is abstract class? 
+2020-03-10 19:44:26 INFO  bridgepattern.OopsQuestions :45 - What is multi-threading? 
+2020-03-10 19:44:26 INFO  bridgepattern.OopsQuestions :45 - What is inheritance? 
+2020-03-10 19:44:26 INFO  bridgepattern.OopsQuestions :45 - How many types of inheritance are there in java?
+2020-03-10 19:44:26 INFO  bridgepattern.QuestionFormat :12 - -----------------------------------------------------------
+2020-03-10 19:44:26 INFO  bridgepattern.QuestionFormat :13 - ----bridge pattern implemented successfully----
+2020-03-10 19:44:43 INFO  factorymethodpattern.GenerateBill :26 - House construction with Above Standard material is calculated
+2020-03-10 19:44:43 DEBUG factorymethodpattern.GenerateBill :27 - 6000.0
+2020-03-10 19:44:43 WARN  factorymethodpattern.GenerateBill :28 - No warnings in calculating the Above standard matrial house construction cost
+2020-03-10 19:44:43 ERROR factorymethodpattern.GenerateBill :29 - No errors in calculating the Above standard matrial house construction cost
+2020-03-10 19:44:43 INFO  factorymethodpattern.GenerateBill :35 - House construction with Highstandard material is calculated
+2020-03-10 19:44:43 DEBUG factorymethodpattern.GenerateBill :36 - 3600.0
+2020-03-10 19:44:43 WARN  factorymethodpattern.GenerateBill :37 - No warnings in calculating the Highstandard matrial house construction cost
+2020-03-10 19:44:43 ERROR factorymethodpattern.GenerateBill :38 - No errors in calculating Highstandard matrial house construction cost
+2020-03-10 19:44:43 INFO  factorymethodpattern.GenerateBill :44 - House construction with Highstandard Fullautomatic material is calculated
+2020-03-10 19:44:43 DEBUG factorymethodpattern.GenerateBill :45 - 10000.0
+2020-03-10 19:44:43 WARN  factorymethodpattern.GenerateBill :46 - No warnings in calculating the Highstandard Fullautomatic matrial house construction cost
+2020-03-10 19:44:43 ERROR factorymethodpattern.GenerateBill :47 - No errors in calculating Highstandard Fullautomatic matrial house construction cost
+2020-03-10 19:44:43 INFO  factorymethodpattern.GenerateBill :48 - ----factory method pattern executed successfully----
+2020-03-10 19:44:43 INFO  factorymethodpattern.GenerateBill :16 - House construction with Standard material is calculated
+2020-03-10 19:44:43 DEBUG factorymethodpattern.GenerateBill :17 - 3600.0
+2020-03-10 19:44:43 WARN  factorymethodpattern.GenerateBill :18 - No warnings in calculating the standard matrial house construction cost
+2020-03-10 19:44:43 ERROR factorymethodpattern.GenerateBill :19 - No errors in calculating the standard matrial house construction cost
+2020-03-10 19:45:38 INFO  interpreterpattern.InterpreterPatternClient :11 - Enter the String to Reverse:
+2020-03-10 19:45:41 INFO  interpreterpattern.InterpreterPatternClient :14 - reverse of string is:
+2020-03-10 19:45:41 DEBUG interpreterpattern.InterpreterPatternClient :16 - cba
+2020-03-10 19:45:41 INFO  interpreterpattern.InterpreterPatternClient :22 - ----interpreter Design Pattern implemented----
+2020-03-10 19:45:56 INFO  prototypedesignpattern.PrototypeDemo :17 - Enter Employee Id: 
+2020-03-10 19:46:12 INFO  prototypedesignpattern.PrototypeDemo :20 - Enter Employee Name: 
+2020-03-10 19:46:19 INFO  prototypedesignpattern.PrototypeDemo :24 - Enter Employee Designation: 
+2020-03-10 19:46:24 INFO  prototypedesignpattern.PrototypeDemo :28 - Enter Employee Address: 
+2020-03-10 19:46:31 INFO  prototypedesignpattern.PrototypeDemo :32 - Enter Employee Salary: 
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :15 -    Employee Records of KL University
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :16 - ---------------------------------------------
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :17 - Eid	Ename	Edesignation	Esalary		Eaddress
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :33 - 2346	raju	mba	365000.0	banglore
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :15 -    Employee Records of KL University
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :16 - ---------------------------------------------
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :17 - Eid	Ename	Edesignation	Esalary		Eaddress
+2020-03-10 19:46:39 INFO  prototypedesignpattern.EmployeeRecord :33 - 2346	raju	mba	365000.0	banglore
+2020-03-10 19:46:39 INFO  prototypedesignpattern.PrototypeDemo :40 - ----Prototype design pattern implemented successfully----
+2020-03-10 19:47:21 INFO  proxypattern.RealInternetAccess :13 - Internet Access granted for student
+2020-03-10 19:47:21 INFO  proxypattern.RealInternetAccess :14 - ----proxypattern implemented successfully----
+2020-03-10 19:47:39 INFO  templatepattern.Cricket :11 - Cricket game initialised start playing
+2020-03-10 19:47:39 INFO  templatepattern.Cricket :17 - game started welcome to cricket
+2020-03-10 19:47:39 INFO  templatepattern.Cricket :24 - Cricket game ended
+2020-03-10 19:47:39 INFO  templatepattern.Football :13 - Football game initialised start playing
+2020-03-10 19:47:39 INFO  templatepattern.Football :19 - game started welcome to football
+2020-03-10 19:47:39 INFO  templatepattern.Football :25 - Football game ended
+2020-03-10 19:47:39 INFO  templatepattern.TemplatePatternDemo :14 - ----Template pattern implemented successfully----
